@@ -14,4 +14,18 @@ of the tutorial session, it is to be expected that the students can:
 
 The students are B.Sc/B.Tech level, and are thus assumed to have very minimal knowledge of coding and plotting stuff. 
 
-For setting up your system for work, see the attached [Instructions.md](Instructions.md)
+-----------------------------------------
+**Setting up your system for work**: see the attached [Instructions.md](Instructions.md).
+**Data download**: Can be found [here](https://www.dropbox.com/sh/3rojazhsh3yo4vl/AADgvFT3lYlWmy9pbl3djPO5a?dl=0). Make sure the 
+data is kept as per the directory tree explained in the tutorial notebook.
+
+--------------------------------------------------
+To run the script:
+
+0. Download/clone this repo, and place it at some good location (preferrably Desktop).
+1. Open the Anaconda prompt (Linux terminal)
+2. Type `jupyter notebook`, and press enter. A browser tab will open up. 
+3. Navigate to the location of this repository , and start the Tutorial script. If all is fine, you will be able to run the cells.
+
+----------------------------------------------
+
