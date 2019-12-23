@@ -1,9 +1,11 @@
 ### Software installation. 
 1. Download and install Anaconda: https://www.anaconda.com/distribution/. 
-    1.1. On a windows system, simply run the .exe file for installation: https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/ 
-    1.2. On a linux system, do ./anaconda_installationfile.sh: https://problemsolvingwithpython.com/01-Orientation/01.05-Installing-Anaconda-on-Linux/
-         1.2.1. After installation, source bashrc as source .bashrc.
-    1.3. Download Python 2.7 version only.
+
+        1.1. On a windows system, simply run the .exe file for installation: https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/ 
+        1.2. On a linux system, do ./anaconda_installationfile.sh: https://problemsolvingwithpython.com/01-Orientation/01.05-Installing-Anaconda-on-Linux/
+             1.2.1. After installation, source bashrc as source .bashrc.
+        1.3. Download Python 2.7 version only.
+        
 2. Testing packages
 
     2.1. Jupyter notebook.
