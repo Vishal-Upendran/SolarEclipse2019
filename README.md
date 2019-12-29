@@ -30,3 +30,10 @@ To run the script:
 
 ----------------------------------------------
 
+In case of any queries, we may be found at:
+
+Sreejith: sreejith@iucaa.in
+Abhishek: abhishek@iucaa.in
+Vishal: uvishal@iucaa.in
+
+---------------------------------------------------
